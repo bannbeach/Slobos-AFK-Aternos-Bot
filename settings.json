@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 10,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 0,
       "messages": [
-        "Hello",
-        "hello",
-        "nig"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
